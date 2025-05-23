@@ -1,6 +1,15 @@
 .col{
     text-align: center;
 }
+
+.anuncio{
+  width: 200px; /* Ajuste a largura conforme necessário */
+  padding: 20px;
+  background-color: #f0f0f0; /* Adicione um fundo opcional */
+  border: 1px solid #ccc; /* Adicione uma borda opcional */
+  text-align: left; /* Alinha o texto à esquerda */
+}
+
 .corpo{
     background-color: dimgrey; color: rgb(211, 211, 211);
 }
